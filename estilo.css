@@ -1,0 +1,42 @@
+.mt-6{
+    font-size: 100px;
+}
+body{
+    font-family: 'Quicksand';
+    background-color: rgb(242, 242, 220);
+}
+footer{
+    background-color: black;
+    height: 200px;
+}
+p{
+    color: white;
+    margin-top: 40px;
+}
+.p2{
+    color: black;
+    font-size: 15px;
+    margin: 0;
+}
+.sobre{
+    font-size: 60px;
+}
+.kiwi{
+    padding-top: 30px;
+}
+.con{
+    padding: 50px;
+}
+.fluid2{
+    padding: 60px;
+}
+nav{
+    background-color: none;
+}
+.video{
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+iframe{
+    padding-bottom: 50px;
+}
