@@ -1,0 +1,28 @@
+body{
+    font-family: 'Quicksand';
+    background-color: rgb(242, 242, 220);
+    nav{
+        background-color: none;
+    }
+    .mt-6{
+        font-size: 100px;
+    }
+    .video{
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+    iframe{
+        padding-bottom: 50px;
+    }
+    .fluid2{
+        padding: 60px;
+    }
+}
+footer{
+    background-color: black;
+    height: 200px;
+    p{
+        color: white;
+        margin-top: 40px;
+    }
+}

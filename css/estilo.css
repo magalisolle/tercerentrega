@@ -1,0 +1,25 @@
+@media (max-width: 960px) {
+  .navbar-collapse {
+    height: 100vh; } }
+
+body {
+  font-family: 'Quicksand';
+  background-color: #f2f2dc; }
+  body nav {
+    background-color: none; }
+  body .mt-6 {
+    font-size: 100px; }
+  body .video {
+    padding-top: 50px;
+    padding-bottom: 20px; }
+  body iframe {
+    padding-bottom: 50px; }
+  body .fluid2 {
+    padding: 60px; }
+
+footer {
+  background-color: black;
+  height: 200px; }
+  footer p {
+    color: white;
+    margin-top: 40px; }
