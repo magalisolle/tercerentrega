@@ -1,0 +1,6 @@
+@mixin colorin($col){
+	color:$col;
+}
+button{
+	@include colorin(white);
+}

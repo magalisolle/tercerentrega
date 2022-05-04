@@ -2,6 +2,15 @@
   .navbar-collapse {
     height: 100vh; } }
 
+h1, h3 {
+  color: black;
+  font-size: 3rem;
+  margin: 1rem; }
+
+h3 {
+  text-shadow: 1px 2px 1px #bbbaba;
+  font-size: 20px; }
+
 body {
   font-family: 'Quicksand';
   background-color: #f2f2dc; }
@@ -23,3 +32,11 @@ footer {
   footer p {
     color: white;
     margin-top: 40px; }
+
+button {
+  color: white;
+  border-radius: 5px;
+  background: #003285; }
+
+button {
+  color: white; }
