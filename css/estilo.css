@@ -1,6 +1,8 @@
-@media (max-width: 960px) {
+@media (max-width: 460px) {
   .navbar-collapse {
-    height: 100vh; } }
+    height: 100vh; }
+  .h1mt-6 {
+    font-size: 5px; } }
 
 h1, h3 {
   color: black;
@@ -8,8 +10,7 @@ h1, h3 {
   margin: 1rem; }
 
 h3 {
-  text-shadow: 1px 2px 1px #bbbaba;
-  font-size: 20px; }
+  font-size: 30px; }
 
 body {
   font-family: 'Quicksand';
@@ -25,6 +26,15 @@ body {
     padding-bottom: 50px; }
   body .fluid2 {
     padding: 60px; }
+  body button {
+    margin-left: 15px;
+    width: 200px;
+    height: 50px;
+    font-size: 18px;
+    margin-top: 30px;
+    color: black; }
+  body img {
+    border-radius: 20px; }
 
 footer {
   background-color: black;
@@ -36,7 +46,60 @@ footer {
 button {
   color: white;
   border-radius: 5px;
-  background: #003285; }
+  background: #ffb702; }
 
 button {
   color: white; }
+
+@media (max-width: 460px) {
+  .navbar-collapse {
+    height: 100vh; }
+  .h1mt-6 {
+    font-size: 5px; } }
+
+body {
+  font-family: 'Quicksand';
+  background-color: #f2f2dc; }
+  body nav {
+    background-color: none; }
+  body .form {
+    background-color: black;
+    color: aliceblue;
+    margin: auto;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 60px;
+    width: 15%;
+    height: 5%;
+    margin-top: 25px;
+    border-radius: 20px;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 30px; }
+  body .sobre {
+    font-size: 70px;
+    font-weight: bold; }
+  body img {
+    border-radius: 20px; }
+
+body {
+  font-family: 'Quicksand';
+  background-color: #f2f2dc; }
+  body nav {
+    background-color: none; }
+  body .sobre {
+    font-size: 70px;
+    font-weight: bold; }
+  body img {
+    border-radius: 20px; }
+
+body {
+  font-family: 'Quicksand';
+  background-color: #f2f2dc; }
+  body nav {
+    background-color: none; }
+  body .sobre {
+    font-size: 70px;
+    font-weight: bold; }
+  body img {
+    border-radius: 20px; }
